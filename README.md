@@ -1,6 +1,6 @@
 # Molecule-Adsorption
 
-This repository includes 3 example folders to employ the .py scripts to generate a .txt file with the main features describing the adsorption modes of molecules (CH4, CH3, CH3+H or H) in atomic clusters.
+This repository includes 3 example folders to employ the .py scripts to generate a .txt file with the main features describing the adsorption modes of molecules (CH4, CH3, CH3+H or H) with atomic clusters.
 
 **--TMx_CH3_or_CH4:** This folder includes the python script ch43_new2.py, which can be runned simply with "python3 ch43_new2.py". It will consider all the .xyz files in the same folder and generate a table (table_feat.txt) with the main adsorption features. It works for any dataset of metallic clusters (TMx, x = 1, 2, 3, ... n.) interacting with a CH4 or a CH3 - This program identifies automatically weather it is a CH4 or CH3 interacting with the atomic cluster by counting the number of hydrogens in the .xyz file, thus, be careful.
 
