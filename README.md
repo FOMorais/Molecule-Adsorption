@@ -1,4 +1,4 @@
-# Molecule-Adsorption
+# Molecule Adsorption Analysis
 
 This repository includes 3 example folders to employ the python scripts to generate a tab-separated table with the main features describing the adsorption modes of molecules (CH4, CH3, CH3+H or H) in atomic clusters.
 
