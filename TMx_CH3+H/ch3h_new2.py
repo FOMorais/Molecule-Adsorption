@@ -1,3 +1,5 @@
+#Felipe Orlando Morais
+
 import numpy as np
 from scipy.spatial import distance
 from glob import glob
